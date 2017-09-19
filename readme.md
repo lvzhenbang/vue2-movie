@@ -58,7 +58,7 @@ mongodb
 
 ### 项目演示
 
-![项目演示](./static/演示.png)
+![项目演示](https://github.com/lvzhenbang/vue2-express/blob/master/static/%E6%BC%94%E7%A4%BA.gif)
 
 ### 项目实践
 
