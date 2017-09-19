@@ -56,6 +56,10 @@ mongodb
 
 注：因为公司最近在新的磨合，自己有机会接触和跟上这一波的前端开发的趋势，感谢公司，感谢各位同事。
 
+### 项目演示
+
+![项目演示](./static/演示.png)
+
 ### 项目实践
 
 为了防止各位看官的喷，决定不拿公司的项目来说事儿，所以以一个在网上看的项目为原型，自己重写一个（一个自适应的小项目）。
@@ -170,4 +174,17 @@ mongodb
     })
   
 本文只是我有感而写，这段时间根据公司前段时间的体会和公司同事的帮助，以及自己最近学习体会总结而成。
-源码 已上传到github地址[https://github.com/lvzhenbang/vue2-express](https://github.com/lvzhenbang/vue2-express)
+
+
+> 运行项目
+
+```
+npm install 安装依赖
+
+npm run dev 打包编译
+
+npm run data  获取数据
+
+npm run server  启动服务
+
+```
